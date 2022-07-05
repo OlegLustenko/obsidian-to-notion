@@ -9,8 +9,6 @@ import {
 	Setting,
 	normalizePath,
 } from "obsidian";
-import { join } from "path";
-import * as fs from "fs";
 import { addIcons } from "icon";
 import { Upload2Notion } from "Upload2Notion";
 import { NoticeMConfig } from "Message";
